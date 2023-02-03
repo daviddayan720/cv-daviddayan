@@ -6,25 +6,50 @@ date: "2023-01-25"
 
 # Education
 
-* Hastings High School **2015 - 2019**
-* Cornell University **2019 - 2023**
+##### **Cornell University College of Agriculture & Life Sciences**
+
+Bachelor of Science, Expected May 2023\
+Major: Animal Science (Pre-Veterinary Concentration)\
+Minor: Infectious Disease Biology
 
 ------------------------------------------------------------------------
 
-# Employment
+# Research Experience
 
-* Cornell Wildlife Health Lab **2021 - Current**
-* Riverside Discovery Center **Summer 2021**
+##### ***10/2021 - Current*** **Cornell Wildlife Health Lab**
 
-------------------------------------------------------------------------
+* Assist with study logistics, literature review, sample preparation/homogenization, SOP writing and more for a waterfowl toxicology study aimed at informing wildlife management policy and game consumption advisories
 
-# References
+* Prepare sample collection kits and organize blood sample archive forepizootic hemorrhagic disease surveillance in New York State
 
-> David is an excellent student and worker. [^1]
 
-[^1]: Nobody
+##### ***6/2022 - 8/2022*** **Engaged Cornell Trainee: Conservation with Communities Uganda**
+* Developed and conducted semi-structured interviews with community conservation volunteers to assess perceptions on trends in gorilla health and ranging patterns
+* Compiled data from NGO and government sources for analysis of spatial and temporal links between gorilla ranging patterns and gastrointestinal parasite burdens
+* Developed a self-assessment for community conservation volunteers to help identify potential needs for future training
 
-------------------------------------------------------------------------
+
+##### ***3/2018 - 4/2019*** **Research Intern: O'Seas Conservation Foundation**
+* Conducted non-invasive surveillance of the New York Bight using underwater camera systems to identify a potential nursery for juvenile white sharks, culminating in a peer-reviewed publication
+* Aided in longline and camera trawl deployment, shark tagging and blood draws, and other research techniques
+* Taught 25+ middle-school to early high-school students about marine conservation, underwater research methods, species identification, and animal handling
+
+----------
+
+# Campus Involvement & Leadership
+
+##### ***8/2022 - Current*** **Peer Mentor: Cornell University Animal Science Department**
+* Assist 3 first-year Animal Science students with course planning, research and internship applications, veterinary school preparation, student and faculty networking, and other aspects of student life 
+
+
+##### ***1/2022 - 12/2022*** **Campus Ambassador: Planetary Health Alliance**
+* Collaborate with an international network of PHA campus ambassadors, staff, and partners to promote awareness of planetary health
+* Coordinate with other campus organizations to plan planetary health events
+
+##### ***12/2021 - 12/2022*** **Vice President: Cornell Pre-Vet Society**
+* Planned networking events, guest lectures, skill development workshops and other functions
+* Co-led an executive board of 8 members, catering club activities to a student membership of 50+ individuals
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
