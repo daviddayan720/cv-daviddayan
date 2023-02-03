@@ -4,7 +4,7 @@ David Dayan
 
 # Education
 
-##### **Cornell University CollegeSS of Agriculture & Life Sciences**
+##### **Cornell University College of Agriculture & Life Sciences**
 
 Bachelor of Science, Expected May 2023  
 Major: Animal Science (Pre-Veterinary Concentration)  
@@ -12,7 +12,7 @@ Minor: Infectious Disease Biology
 
 ------------------------------------------------------------------------
 
-# Research Experiencee
+# Research Experience
 
 ##### ***10/2021 - Current*** **Cornell Wildlife Health Lab**
 
@@ -48,7 +48,7 @@ Minor: Infectious Disease Biology
 
 ------------------------------------------------------------------------
 
-# Campus Involvement & Leadershippppppp
+# Campus Involvement & Leadership
 
 ##### ***8/2022 - Current*** **Peer Mentor: Cornell University Animal Science Department**
 
