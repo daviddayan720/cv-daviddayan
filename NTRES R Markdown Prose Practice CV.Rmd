@@ -1,0 +1,31 @@
+---
+title: "David Dayan"
+output: html_document
+date: "2023-01-25"
+---
+
+# Education
+
+* Hastings High School **2015 - 2019**
+* Cornell University **2019 - 2023**
+
+------------------------------------------------------------------------
+
+# Employment
+
+* Cornell Wildlife Health Lab **2021 - Current**
+* Riverside Discovery Center **Summer 2021**
+
+------------------------------------------------------------------------
+
+# References
+
+> David is an excellent student and worker. [^1]
+
+[^1]: Nobody
+
+------------------------------------------------------------------------
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
